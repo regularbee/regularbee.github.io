@@ -1,0 +1,12 @@
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+.paragraph_centered {
+    background-color:pink;
+    color:white;
+    padding:25%;
+    text-align: center;
+}
