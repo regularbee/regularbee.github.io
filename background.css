@@ -1,0 +1,98 @@
+
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color:#2D383A;
+}
+
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.navbar a:hover {
+  color: #91E351;
+}
+
+.navbar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.this {
+    float: none;
+    position: absolute;
+    top: 135%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: White;
+    background-color: #2196F3;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 15px 25px;
+    width: 20%;
+
+    
+    
+}
+.this:hover {
+    background-color: #0b7dda;
+}
+
+
+hgroup {
+	margin-left: -250px;
+	margin-top: 0px;
+	position: absolute;
+	width: 500px;
+	left:50%;
+	top: 20%;
+}
+
+h1, h2, h3, h4 {
+	text-shadow: 2px 2px 4px #999;
+	text-align: center;
+	margin: auto;
+	color: #333;
+	font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.this1 {
+    float: none;
+    position: absolute;
+    top: 135%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: White;
+    background-color: #2196F3;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 15px 25px;
+    width: 20%;
+    text-align: center;
+
+    
+    
+}
