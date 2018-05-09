@@ -21,3 +21,7 @@ function randomLinks() {
  document.write('<img class="who" src="' + myInput[rnd] + '">');
 
 }
+
+function newDoc() {
+    window.location.assign("https://futurism.com/hawaii-sunscreen-ban-coral-reefs/")
+}
